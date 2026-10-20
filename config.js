@@ -13,12 +13,12 @@ const _prefixes = process.env.PREFIXES ? process.env.PREFIXES.split(',') : ['.',
 
 const config = {
     // 𝐁𝐎𝐓 𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘
-    botName     : process.env.BOT_NAME    || '𝐒ᴜʙʜᴀɴ-𝐌ᴅ',
-    botOwner    : process.env.BOT_OWNER   || 'ᴍ sᴜʙʜᴀɴ ᴀʟɪ',
-    ownerNumber : process.env.OWNER_NUMBER || '',
-    author      : process.env.AUTHOR      || 'ᴍ sᴜʙʜᴀɴ ᴀʟɪ',
-    packname    : process.env.PACKNAME    || '𝐒ᴜʙʜᴀɴ-𝐌ᴅ',
-    description : process.env.DESCRIPTION || '𝐒ᴜʙʜᴀɴ-𝐌ᴅ — High Performance WhatsApp Bot',
+    botName     : process.env.BOT_NAME    || 'Shahbaz-𝐌ᴅ',
+    botOwner    : process.env.BOT_OWNER   || 'ᴍ Shahbaz ᴀʟɪ',
+    ownerNumber : process.env.OWNER_NUMBER || ''923191285720,
+    author      : process.env.AUTHOR      || 'ᴍ Shahbaz ᴀʟɪ',
+    packname    : process.env.PACKNAME    || 'Shahbaz-𝐌ᴅ',
+    description : process.env.DESCRIPTION || 'Shahbaz-𝐌ᴅ — High Performance WhatsApp Bot',
     version     : '1.0.0',
 
     // 𝐁𝐎𝐓 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
@@ -28,10 +28,10 @@ const config = {
     timeZone    : process.env.TIMEZONE     || 'Asia/Karachi',
 
     // 𝐋𝐈𝐍𝐊𝐒 & 𝐔𝐏𝐃𝐀𝐓𝐄𝐒
-    channelLink : process.env.CHANNEL_LINK || '',
-    ytChannel   : process.env.YT_CHANNEL   || 'ᴍ sᴜʙʜᴀɴ ᴀʟɪ',
+    channelLink : process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029Vb9nBUjCxoAvJa9cVs2G',
+    ytChannel   : process.env.YT_CHANNEL   || 'https://whatsapp.com/channel/0029Vb9nBUjCxoAvJa9cVs2G'',
 
-    // 𝐒𝐄𝐒𝐒𝐈𝐎𝐍
+    // 𝐒𝐄𝐒𝐒𝐈𝐎𝐍sᴜʙʜᴀɴ
     sessionId     : process.env.SESSION_ID     || '',
     pairingNumber : process.env.PAIRING_NUMBER || '',
 
