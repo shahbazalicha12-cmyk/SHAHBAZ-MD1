@@ -12,16 +12,18 @@
 
 <br>
 
-[![Fork this repo](https://img.shields.io/github/forks/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=8A2BE2&label=Fork)](https://github.com/subhanmdofficial/subhan-md/fork)
-[![Star this repo](https://img.shields.io/github/stars/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FFD700&label=Star)](https://github.com/subhanmdofficial/subhan-md)
-[![Download ZIP](https://img.shields.io/badge/⬇️_Download-ZIP-25D366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/subhanmdofficial/subhan-md/archive/refs/heads/main.zip)
-[![Issues](https://img.shields.io/github/issues/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FF4444)](https://github.com/subhanmdofficial/subhan-md/issues)
+[![Fork this repo](https://img.shields.io/github/forks/shahbazalicha12-cmyk/SHAHBAZ-MD1?style=for-the-badge&logo=github&color=8A2BE2&label=Fork)](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1/fork)
+
+[![Star this repo](https://img.shields.io/github/stars/shahbazalicha12-cmyk/SHAHBAZ-MD1?style=for-the-badge&logo=github&color=FFD700&label=Star)](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1))
+[![Download ZIP](https://img.shields.io/badge/⬇️_Download-ZIP-25D366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1/archive/refs/heads/main.zip)
+
+[![Issues](https://img.shields.io/github/issues/shahbazalicha12-cmyk/SHAHBAZ-MD1?style=for-the-badge&logo=github&color=FF4444)](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1/issues)
 
 <br>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhanmdofficial/subhan-md)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/subhanmdofficial/subhan-md)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/subhanmdofficial/subhan-md)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)
 
 <br>
 
@@ -41,8 +43,8 @@
 
 ## 📖 Table of Contents
 
-- [About](#-about-subhan-md)
-- [Why SUBHAN-MD?](#-why-subhan-md)
+- [About](#-about-shahbaz-md)
+- [Why Shahbaz-MD?](#-why-shahbaz-md)
 - [Command Categories](#-command-categories)
 - [Requirements](#-requirements)
 - [Quick Start](#-quick-start)
@@ -59,7 +61,7 @@
 
 ---
 
-## 🚀 About SUBHAN-MD
+## 🚀 About Shahbaz-MD
 
 **SUBHAN-MD** (𝐒ᴜʙʜᴀɴ-𝐌ᴅ) is a next-generation **WhatsApp Multi-Device (MD) bot**, engineered on **Node.js** and the **Baileys** socket library. It ships with **300+ commands across 19 categories**, an auto-loading plugin architecture, and support for **five storage backends** — from a zero-setup JSON store to full MongoDB, PostgreSQL, MySQL, or SQLite.
 
@@ -69,7 +71,7 @@ It's designed and maintained by **M Subhan Ali** from **Pakistan 🇵🇰**, wit
 
 | | |
 |:---|:---|
-| 👤 **Developer** | M Subhan Ali |
+| 👤 **Developer** | M shahbaz Ali |
 | 🌍 **Made In** | Pakistan 🇵🇰 |
 | ⚡ **Engine** | Node.js 20+ · Baileys 7.x |
 | 🔌 **Commands** | 300+ across 19 categories |
@@ -82,7 +84,7 @@ It's designed and maintained by **M Subhan Ali** from **Pakistan 🇵🇰**, wit
 
 ---
 
-## ⭐ Why SUBHAN-MD?
+## ⭐ Why Shahbaz-MD?
 
 - 🇵🇰 **Built in Pakistan, built for scale** — actively maintained, production-tested, and tuned for low-RAM hosting.
 - ⚡ **Zero-config plugins** — drop a file in `plugins/`, it auto-loads with no manual registration.
@@ -98,7 +100,7 @@ It's designed and maintained by **M Subhan Ali** from **Pakistan 🇵🇰**, wit
 
 ## 🧩 Command Categories
 
-SUBHAN-MD organizes its 300+ commands into **19 categories**:
+Shahbaz-MD organizes its 300+ commands into **19 categories**:
 
 <div align="center">
 
@@ -147,8 +149,8 @@ Run **`.menu`** (or `.list`) inside WhatsApp any time to see the live, categoriz
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/subhanmdofficial/subhan-md.git
-cd subhan-md
+git clone https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1.git
+cd shahbaz-md
 
 # 2. Install dependencies
 npm install
@@ -173,7 +175,7 @@ node index.js --qr-code
 
 ## 🔑 Session Setup
 
-SUBHAN-MD supports two ways to connect your WhatsApp account:
+Shahbaz-MD supports two ways to connect your WhatsApp account:
 
 1. **Pairing Code (recommended)** — set `PAIRING_NUMBER` in your `.env` to your WhatsApp number (with country code, no `+` or spaces). On startup the bot prints an 8-digit code — enter it in **WhatsApp → Linked Devices → Link with phone number**.
 2. **Session ID** — generate a session and set it as `SESSION_ID` in your `.env`. Ideal for one-click cloud deployments where you can't watch the terminal.
@@ -194,8 +196,8 @@ All configuration is handled through environment variables (see `sample.env`):
 |:---|:---|:---|
 | `SESSION_ID` | Session credential string | *(empty)* |
 | `PAIRING_NUMBER` | Number to receive a pairing code | *(empty)* |
-| `BOT_NAME` | Display name of the bot | `𝐒ᴜʙʜᴀɴ-𝐌ᴅ` |
-| `BOT_OWNER` | Owner name shown in replies | `ᴍ sᴜʙʜᴀɴ ᴀʟɪ` |
+| `BOT_NAME` | Display name of the bot | `𝐒hahbaz-𝐌ᴅ` |
+| `BOT_OWNER` | Owner name shown in replies | `ᴍ shahbaz ᴀʟɪ` |
 | `OWNER_NUMBER` | Your WhatsApp number | *(empty)* |
 | `PREFIXES` | Comma-separated command prefixes | `.,!,/` |
 | `COMMAND_MODE` | `public` or `private` | `private` |
@@ -217,13 +219,13 @@ Leave every database variable blank to use the built-in JSON file storage — no
 
 ## ☁️ One-Click Deployment
 
-Pick a platform and hit deploy — SUBHAN-MD ships with ready-made config for all three:
+Pick a platform and hit deploy — Shahbaz-MD ships with ready-made config for all three:
 
 <div align="center">
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhanmdofficial/subhan-md)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/subhanmdofficial/subhan-md)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/subhanmdofficial/subhan-md)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[[[[https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1-](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)](https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)](https://github.com/shahbazalicha12-))
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shahbazalicha12-cmyk/SHAHBAZ-MD1)
 
 </div>
 
@@ -302,6 +304,6 @@ Licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
 
 <div align="center">
 
-**𝐒ᴜʙʜᴀɴ-𝐌ᴅ** — built with 🖤 in Pakistan 🇵🇰 by **M Subhan Ali**
+**𝐒hahbaz-𝐌ᴅ** — built with 🖤 in Pakistan 🇵🇰 by **M Shahbaz Ali**
 
 </div>
