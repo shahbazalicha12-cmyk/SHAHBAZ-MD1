@@ -45,7 +45,7 @@ const config = {
     giphyApiKey : process.env.GIPHY_API_KEY || '',
     removeBgKey : process.env.REMOVEBG_KEY  || '',
 
-    // 𝐖𝐀𝐑𝐍 𝐒𝐘𝐒𝐓𝐄𝐌
+    // 𝐖𝐀𝐑𝐍 𝐒𝐘𝐒𝐓𝐄𝐌MENU_IMAGE: 'https://files.catbox.moe/1ogine.jpg',
     warnCount : 3,
 
     // 𝐄𝐗𝐓𝐄𝐑𝐍𝐀𝐋 𝐀𝐏𝐈𝐒
