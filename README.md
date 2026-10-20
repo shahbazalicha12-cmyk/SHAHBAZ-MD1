@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=27&duration=2600&pause=800&color=25D366&center=true&vCenter=true&width=700&lines=%F0%9F%87%B5%F0%9F%87%B0+SUBHAN-MD+%E2%80%94+WhatsApp+MD+Bot;Made+In+Pakistan+by+M+Subhan+Ali;300%2B+Commands+%7C+19+Categories;Fast+%E2%80%A2+Stable+%E2%80%A2+Multi+Device" alt="Shahbaz-MD typing animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=27&duration=2600&pause=800&color=25D366&center=true&vCenter=true&width=700&lines=%F0%9F%87%B5%F0%9F%87%B0+Shahbaz-MD+%E2%80%94+WhatsApp+MD+Bot;Made+In+Pakistan+by+M+Shahbaz+Ali;300%2B+Commands+%7C+19+Categories;Fast+%E2%80%A2+Stable+%E2%80%A2+Multi+Device" alt="Shahbaz-MD typing animation">
 
 ### 🇵🇰 The Best WhatsApp MD (Multi-Device) Bot — Made In Pakistan
 
